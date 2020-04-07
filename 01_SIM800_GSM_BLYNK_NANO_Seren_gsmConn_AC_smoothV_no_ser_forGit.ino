@@ -76,7 +76,7 @@ TinyGsm modem(SerialAT);
 #include "Setting.h"
 #include "Blynk.h"
 
-char auth[] = "F4QAN02w4XKgnJmc4XRwon3utBxYsgxo";
+char auth[] = "F4QAN02w4XKgnJmc4XRwon3xxxxxxxx";
 
 #include "DHT.h"
 #define DHTPIN 11 // The pin you've connected Data from the DHT to your Arduino
