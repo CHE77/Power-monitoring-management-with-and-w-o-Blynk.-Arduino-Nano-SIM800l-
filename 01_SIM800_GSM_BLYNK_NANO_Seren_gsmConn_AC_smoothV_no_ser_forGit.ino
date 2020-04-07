@@ -74,6 +74,7 @@ TinyGsm modem(SerialAT);
 //*******************************************************
 // Code itself
 #include "Setting.h"
+#include "Blynk.h"
 
 char auth[] = "F4QAN02w4XKgnJmc4XRwon3utBxYsgxo";
 
